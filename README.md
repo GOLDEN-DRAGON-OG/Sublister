@@ -14,6 +14,15 @@ _Features_
 - Supports multiple threads for improved performance
 - Easy to use and intuitive command-line interface
 
-_Installation_
+_Installation_ & _Usage_
 
+• git clone https://github.com/GOLDEN-DRAGON-OG/Sublister.git
+• cd Sublister
+• pip install requests
+• pip install colorama
+• python3 sublister.py
+
+_Now enter the domain to list Active Subdomain's_
+
+_PROOF OF CONCEPT👇🏻_
 
